@@ -67,6 +67,3 @@ The search_books() function retrieves books from the database whose titles match
 Insert Book:
 
 The insert_book() function inserts a new book into the database with the details provided by the user.
-Tkinter GUI:
-
-The GUI is created using Tkinter. It has two main sections: one for searching books and another for inserting new books.
