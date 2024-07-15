@@ -1,3 +1,13 @@
+In this project, I aimed to develop a simple yet effective book management application utilizing the "Shahre Ketab" database. This project incorporates the use of Jupyter Notebook for data exploration and manipulation, alongside a graphical user interface (GUI) built with Tkinter. The application includes several functions to handle various tasks efficiently, such as searching for books by their titles and inserting new books into the database.
+
+The main components of the project include:
+
+Database Connection: Establishing a connection to the "Shahre Ketab" SQL Server database using pyodbc to facilitate data retrieval and insertion.
+Search Functionality: Implementing a search feature that allows users to query the database for books based on their titles. The results are displayed in a listbox within the Tkinter interface.
+Insertion Functionality: Providing a form within the GUI for users to input new book details, including title, authors, ISBN, publisher, price, subject, and edition. The form data is then inserted into the database.
+By integrating these elements, the application serves as a comprehensive tool for managing a collection of books, providing an intuitive interface for users to interact with the database.
+
+
 Book Management Application
 This is a simple Book Management Application developed using Python's Tkinter library for the GUI and pyodbc for connecting to a SQL Server database. The application allows users to search for books by name and insert new books into the database.
 
